@@ -1,57 +1,72 @@
+<!-- README_PROFILE_VERSION: 2 -->
 
-**Digital platforms | Product systems | Operations | Mainland China delivery**
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="m41130 â€” building systems until small ideas become entire platforms" />
+</p>
 
-I build and operate digital products across business processes, web and mobile applications, AI integrations, and international delivery. My work combines product responsibility with hands-on architecture and implementation.
+```text
+current_focus:   production-hardening YiTaiCOS
+side_quests:     HasiFlow Â· TerraMachina Â· BlogposterCMS
+live_systems:    YiTaiCOS Â· StampArtisan Â· Keramik Girola
+next_project:    yours?
+```
 
-Based in Basel, Switzerland.
+<p align="center">
+  <img src="./assets/systems-landscape.jpg" width="100%" alt="An abstract systems landscape linking commerce, operations, AI, and delivery across three world regions" />
+</p>
 
-## Selected work
+<p align="center">
+  <img src="./assets/impact.svg" width="100%" alt="Selected business impact across systems built and operated by m41130" />
+</p>
 
-### YiTaiCOS
+<p align="center"><sub>Impact figures are rounded or estimated from operational volume to protect confidential commercial data.</sub></p>
 
-My main platform project: a private, multi-tenant operations system for orders, fulfillment, CRM, inventory, suppliers, finance, files, and personnel. Its delivery architecture is adapted for Mainland China, including localized processes and a China-specific deployment route.
+## things that escaped localhost
 
-Private repository - architecture, working application, and selected code can be demonstrated on request.
+It usually starts as a small idea. Then it grows architecture, infrastructure, operations, documentation â€” and eventually becomes something people actually use.
 
-### HasiFlow
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>YiTaiCOS</h3>
+      <p><strong>Active company use before public launch.</strong></p>
+      <p>A private multi-tenant operations platform spanning orders, fulfillment, CRM, inventory, suppliers, finance, files, and personnel. I am finishing its production hardening and a dedicated delivery route for Mainland China.</p>
+      <p><code>Next.js</code> <code>PostgreSQL</code> <code>Docker</code> <code>AliCloud</code> <code>EN/ZH</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://hasiflow.com">HasiFlow</a></h3>
+      <p><strong>The fitness side quest that became a platform.</strong></p>
+      <p>AI-assisted fitness and nutrition across Flutter, Firebase, backend services, Android distribution, and a published ChatGPT app. Still evolving whenever the other projects leave me time.</p>
+      <p><code>Flutter</code> <code>Firebase</code> <code>OpenAI</code> <code>Android</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://stampartisan.com">StampArtisan</a></h3>
+      <p><strong>Shopify, but all the way down.</strong></p>
+      <p>A live commerce business I built and operate: storefront, theme architecture, extensions, integrations, and a dedicated Shopify app.</p>
+      <p><code>Shopify</code> <code>Liquid</code> <code>App development</code> <code>Operations</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://keramikgirola.ch">Keramik Girola</a></h3>
+      <p><strong>A real business, not a portfolio mock-up.</strong></p>
+      <p>Architecture, design, migration, custom plugins, and ongoing operation for a Basel ceramics and natural-stone company.</p>
+      <p><code>WordPress</code> <code>PHP</code> <code>Custom plugins</code> <code>Operations</code></p>
+    </td>
+  </tr>
+</table>
 
-An AI-assisted fitness and nutrition platform built with Flutter, Firebase, Express, Supabase, and OpenAI. HasiFlow includes a published ChatGPT app/connector in active development and a non-public Google Play Console distribution.
+## side quests that got serious
 
-[hasiflow.com](https://hasiflow.com)
+- **[BlogposterCMS](https://github.com/BlogposterCMS/BlogposterCMS)** â€” an open-source modular Node.js CMS with a visual design studio, structured content, permissions, tests, and developer tooling.
+- **TerraMachina** â€” my slightly unreasonable C++ experiment in deterministic physical systems, hierarchical worlds, matter, emergent life, persistence, and replay.
 
-### StampArtisan
+## under the hood
 
-A Shopify business and live storefront that I designed, developed, and operate, including theme architecture, custom extensions, and a dedicated Shopify app.
+`TypeScript` Â· `Node.js` Â· `Next.js` Â· `React` Â· `Flutter` Â· `Firebase` Â· `PostgreSQL` Â· `Supabase` Â· `Docker` Â· `AWS` Â· `AliCloud` Â· `Vercel` Â· `Shopify` Â· `WordPress` Â· `OpenAI` Â· `C++`
 
-[stampartisan.com](https://stampartisan.com)
-
-### Keramik Girola
-
-A live WordPress customer platform for a Basel ceramics and natural-stone company. I created the architecture, design, migration path, and three custom plugins and continue to maintain the system.
-
-[keramikgirola.ch](https://keramikgirola.ch)
-
-### BlogposterCMS
-
-An open-source modular Node.js CMS with a visual design studio, structured pages and widgets, permissions, tests, and extensive developer documentation.
-
-[github.com/BlogposterCMS/BlogposterCMS](https://github.com/BlogposterCMS/BlogposterCMS)
-
-### TerraMachina / Vivarium
-
-An active private C++ and CMake R&D engine for deterministic physical systems, hierarchical worlds, matter and chemistry, emergent life, persistence, and replay.
-
-Private repository - current engine architecture and builds can be demonstrated on request.
-
-## Core areas
-
-- Product architecture and digital operations
-- Mainland China infrastructure and delivery
-- Flutter, Firebase, Google Play Console, and mobile release workflows
-- Node.js, Next.js, PostgreSQL, Supabase, and multi-tenant systems
-- OpenAI APIs, ChatGPT apps, MCP, OAuth, and secure AI integration
-- Shopify, WordPress, custom plugins, and live client operations
-- Docker, Linux, AWS, AliCloud, Vercel, GitHub, testing, and documentation
-
-
-Private repositories remain private for product and security reasons. I am happy to walk through architecture, implementation decisions, testing, and working demonstrations in a professional context.
+<p align="center">
+  <a href="https://vicari.one"><strong>vicari.one</strong></a>
+  &nbsp;Â·&nbsp;
+  <em>some systems are public. the bigger ones usually are not.</em>
+</p>
