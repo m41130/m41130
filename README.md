@@ -1,8 +1,10 @@
 <!-- README_PROFILE_VERSION: 2 -->
 
 <p align="center">
-  <img src="./assets/profile-banner-v2.svg" width="100%" alt="m41130 - building systems until small ideas become entire platforms" />
+  <img src="./assets/impact-v2.svg" width="100%" alt="Selected business impact across systems built and operated by m41130" />
 </p>
+
+<p align="center"><sub>Impact figures are rounded or estimated from operational volume to protect confidential commercial data.</sub></p>
 
 ```text
 current_focus:   production-hardening YiTaiCOS
@@ -10,16 +12,6 @@ side_quests:     HasiFlow / TerraMachina / BlogposterCMS
 live_systems:    YiTaiCOS / StampArtisan / Keramik Girola
 next_project:    yours?
 ```
-
-<p align="center">
-  <img src="./assets/systems-landscape.jpg" width="100%" alt="An abstract systems landscape linking commerce, operations, AI, and delivery across three world regions" />
-</p>
-
-<p align="center">
-  <img src="./assets/impact-v2.svg" width="100%" alt="Selected business impact across systems built and operated by m41130" />
-</p>
-
-<p align="center"><sub>Impact figures are rounded or estimated from operational volume to protect confidential commercial data.</sub></p>
 
 ## things that escaped localhost
 
