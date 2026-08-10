@@ -20,7 +20,7 @@ It usually starts as a small idea. Then it grows architecture, infrastructure, o
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>YiTaiCOS</h3>
+      <h3><a href="https://yitaicos.cn">YiTaiCOS</a></h3>
       <p><strong>Active company use before public launch.</strong></p>
       <p>A private multi-tenant operations platform spanning orders, fulfillment, CRM, inventory, suppliers, finance, files, and personnel. I am finishing its production hardening and a dedicated delivery route for Mainland China.</p>
       <p><code>Next.js</code> <code>PostgreSQL</code> <code>Docker</code> <code>AliCloud</code> <code>EN/ZH</code></p>
