@@ -54,10 +54,5 @@ Private repository - current engine architecture and builds can be demonstrated 
 - Shopify, WordPress, custom plugins, and live client operations
 - Docker, Linux, AWS, AliCloud, Vercel, GitHub, testing, and documentation
 
-## Contact
-
-- Portfolio: [vicari.one](https://vicari.one)
-- Email: [matteo24.5@gmail.com](mailto:matteo24.5@gmail.com)
-- Location: Basel, Switzerland
 
 Private repositories remain private for product and security reasons. I am happy to walk through architecture, implementation decisions, testing, and working demonstrations in a professional context.
