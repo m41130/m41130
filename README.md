@@ -1,4 +1,3 @@
-# Matteo Vicari
 
 **Digital platforms | Product systems | Operations | Mainland China delivery**
 
