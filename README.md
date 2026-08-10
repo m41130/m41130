@@ -1,13 +1,13 @@
 <!-- README_PROFILE_VERSION: 2 -->
 
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="m41130 â€” building systems until small ideas become entire platforms" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="m41130 — building systems until small ideas become entire platforms" />
 </p>
 
 ```text
 current_focus:   production-hardening YiTaiCOS
-side_quests:     HasiFlow Â· TerraMachina Â· BlogposterCMS
-live_systems:    YiTaiCOS Â· StampArtisan Â· Keramik Girola
+side_quests:     HasiFlow · TerraMachina · BlogposterCMS
+live_systems:    YiTaiCOS · StampArtisan · Keramik Girola
 next_project:    yours?
 ```
 
@@ -23,7 +23,7 @@ next_project:    yours?
 
 ## things that escaped localhost
 
-It usually starts as a small idea. Then it grows architecture, infrastructure, operations, documentation â€” and eventually becomes something people actually use.
+It usually starts as a small idea. Then it grows architecture, infrastructure, operations, documentation — and eventually becomes something people actually use.
 
 <table>
   <tr>
@@ -58,15 +58,15 @@ It usually starts as a small idea. Then it grows architecture, infrastructure, o
 
 ## side quests that got serious
 
-- **[BlogposterCMS](https://github.com/BlogposterCMS/BlogposterCMS)** â€” an open-source modular Node.js CMS with a visual design studio, structured content, permissions, tests, and developer tooling.
-- **TerraMachina** â€” my slightly unreasonable C++ experiment in deterministic physical systems, hierarchical worlds, matter, emergent life, persistence, and replay.
+- **[BlogposterCMS](https://github.com/BlogposterCMS/BlogposterCMS)** — an open-source modular Node.js CMS with a visual design studio, structured content, permissions, tests, and developer tooling.
+- **TerraMachina** — my slightly unreasonable C++ experiment in deterministic physical systems, hierarchical worlds, matter, emergent life, persistence, and replay.
 
 ## under the hood
 
-`TypeScript` Â· `Node.js` Â· `Next.js` Â· `React` Â· `Flutter` Â· `Firebase` Â· `PostgreSQL` Â· `Supabase` Â· `Docker` Â· `AWS` Â· `AliCloud` Â· `Vercel` Â· `Shopify` Â· `WordPress` Â· `OpenAI` Â· `C++`
+`TypeScript` · `Node.js` · `Next.js` · `React` · `Flutter` · `Firebase` · `PostgreSQL` · `Supabase` · `Docker` · `AWS` · `AliCloud` · `Vercel` · `Shopify` · `WordPress` · `OpenAI` · `C++`
 
 <p align="center">
   <a href="https://vicari.one"><strong>vicari.one</strong></a>
-  &nbsp;Â·&nbsp;
+  &nbsp;·&nbsp;
   <em>some systems are public. the bigger ones usually are not.</em>
 </p>
