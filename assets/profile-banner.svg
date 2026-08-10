@@ -65,7 +65,7 @@
   <text x="801" y="274" class="mono" font-size="13" fill="#64748b">CROSS-MARKET DELIVERY</text>
 
   <g class="mono" font-size="12" fill="#64748b">
-    <text x="64" y="323">architecture → implementation → deployment → operations</text>
+    <text x="64" y="323">architecture -&gt; implementation -&gt; deployment -&gt; operations</text>
     <text x="1135" y="323" text-anchor="end">reading / steiner</text>
   </g>
 </svg>
